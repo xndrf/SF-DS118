@@ -48,8 +48,8 @@
 
 Код и описание алгоритма решения загружены на [GitHub](https://github.com/xndrf/SF-DS118/tree/master/project_0), обеспечена воспроизводимость кода:
 
-*   [PY_8_Final_Task.py](/project_0/PY_8_Final_Task.py) - код (функции `guess_number` и `score_game`);
-*   [PY_JUPYTER.ipynb](/project_0/PY_JUPYTER.ipynb) - описание алгоритма и демонстрация результатов работы программы;
+*   [PY_8_Final_Task.py](/project_0/PY_8_Final_Task.py) - код функции;
+*   [PY_JUPYTER.ipynb](/project_0/PY_8_JUPYTER.ipynb) - описание алгоритма и демонстрация результатов работы программы;
 *   [requirements.txt](/project_0/requirements.txt) - актульные версии библиотек на момент написания программы.
 
 ⬆️[к оглавлению](/project_0/Readme.md#Оглавление)
