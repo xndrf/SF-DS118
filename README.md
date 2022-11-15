@@ -1,8 +1,9 @@
-# My data science poject
-From the [Skillfactory Data Science course](https:/skillfactory.ru/data-scientist)
+# My Data Science project
 
-## Проекты
+## **Alexandr Fedorov** 
+## Data Science - 118
+## Решения задач по курсу платформы Skillfactory [Data Science](https:/skillfactory.ru/data-scientist)
 
-* [Проект 0. Игра: Угадай число](https://github.com/xndrf/SF-DS118/tree/master/project_0)
-* [Проект 1. Игра: Угадай число](_______)
-* [Проект 2. Игра: Угадай число](_______)
+## Мои Проекты
+
+### [1. Блок 1. Module: Python-8. Инстументы для Data Science](https://github.com/xndrf/SF-DS118/tree/master/project_0)
