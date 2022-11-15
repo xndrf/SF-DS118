@@ -46,10 +46,10 @@
 
 Программа угадывает число в среднем за 6 попыток.
 
-Код и описание алгоритма решения загружены на [GitHub](https://github.com/Stanislav-DS/sf_data_science/tree/main/project_1), обеспечена воспроизводимость кода:
+Код и описание алгоритма решения загружены на [GitHub](https://github.com/xndrf/SF-DS118/tree/master/project_0), обеспечена воспроизводимость кода:
 
-*   [game_v3.py](/project_0/PY_8_Final_Task.py) - код (функции `guess_number` и `score_game`);
-*   [game.ipynb](/project_0/PY_JUPYTER.ipynb) - описание алгоритма и демонстрация результатов работы программы;
+*   [PY_8_Final_Task.py](/project_0/PY_8_Final_Task.py) - код (функции `guess_number` и `score_game`);
+*   [PY_JUPYTER.ipynb](/project_0/PY_JUPYTER.ipynb) - описание алгоритма и демонстрация результатов работы программы;
 *   [requirements.txt](/project_0/requirements.txt) - актульные версии библиотек на момент написания программы.
 
 ⬆️[к оглавлению](/project_0/Readme.md#Оглавление)
