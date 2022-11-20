@@ -1,6 +1,7 @@
 import numpy as np
 
-def random_predict(number:int=1) -> int:
+
+def random_predict(number: int = 1) -> int:
     """Алгорит угадывания числа не более чем за 20 попыток.
     Args:
         number (int, optional): Загаданное число. Defaults to 1.
@@ -23,7 +24,7 @@ def random_predict(number:int=1) -> int:
     # Записываем код более компактно (Синтаксический сахар):
         if (g_num := min_num + (max_num - min_num)//2) == number:
             return count
-    # Условную инструкцию if/else:
+    # Коаткие пояснения по инструкции if/else:
     #   if g_num < number:
     #       min_num, max_num = g_num, max_num
     #   else:
@@ -42,9 +43,9 @@ def score_game(random_predict) -> int:
         count_ls.append(random_predict(number))
 
     score = int(np.mean(count_ls))  # находим среднее количество попыток
-
     print(f'Ваш алгоритм угадывает число в среднем за: {score} попыток')
-    return(score)
+    return score
+
 
 if __name__ == "__main__":
     # RUN
