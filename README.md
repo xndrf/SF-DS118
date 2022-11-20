@@ -2,7 +2,7 @@
 
 ## **Alexandr Fedorov** 
 ## Data Science - 118
-## Решения задач по курсу платформы Skillfactory [Data Science](https:/skillfactory.ru/data-scientist)
+## Решения задач по курсу платформы Skillfactory [Data Science](https://skillfactory.ru/data-scientist-pro)
 
 ## Мои Проекты
 

@@ -8,13 +8,9 @@
 
 1. [Результат.](/project_0/Readme.md#Результат)
 
-1. [Выводы.](/project_0/Readme.md#Выводы)
-
 ### Описание проекта
 Игра в которой компьютер сам загадывает и отгадывает числа
 
-
-⬆️[к оглавлению](/project_0/Readme.md#Оглавление)
 
 ### Проектный кейс
 
@@ -39,13 +35,11 @@
  При решении использовался [Архивный шаблон](https://lms.skillfactory.ru/assets/courseware/v1/f2a8fb0bf139c619f6b6d705f330e0ea/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/guess-number-task.zip) из модуля с базовым решением задачи.
 
 
-⬆️[к оглавлению](/project_0/README.md#Оглавление)
-
 ### РЕЗУЛЬТАТ
 
 * Программа находит число меньше чем за 20 попыток (в среднем за 5 попыток).
 * Код решения загружен на [GitHub](https://github.com/xndrf/SF-DS118/tree/master/project_0)
-* GitHub имеет описание [репозитория](https://github.com/xndrf/SF-DS118) и самого [проекта](https://github.com/xndrf/SF-DS118/tree/master/project_0);
+* GitHub имеет описание [репозитория](https://github.com/xndrf/SF-DS118) и самого [проекта](https://github.com/xndrf/SF-DS118/blob/master/project_0/Readme.md);
 * Проверка кода на соответствие PEP8 проходила с использованием линтера [flake8](https://flake8.pycqa.org/en/latest/) в VScode.
 * Представлен файл [PY_8_Final_Task.py](/project_0/PY_8_Final_Task.py) - код функции;
 * Представлен файл [PY_JUPYTER.ipynb](/project_0/PY_8_JUPYTER.ipynb) - описание алгоритма и демонстрация результатов работы программы;
