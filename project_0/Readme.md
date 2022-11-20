@@ -38,8 +38,8 @@
 ### РЕЗУЛЬТАТ
 
 * Программа находит число меньше чем за 20 попыток (в среднем за 5 попыток).
-* Код решения загружен на [GitHub](https://github.com/xndrf/SF-DS118/tree/main/project_0)
-* GitHub имеет описание [репозитория](https://github.com/xndrf/SF-DS118) и самого [проекта](https://github.com/xndrf/SF-DS118/blob/main/project_0/Readme.md);
+* Код решения загружен на [GitHub](https://github.com/xndrf/SF-DS118/tree/master/project_0)
+* GitHub имеет описание [репозитория](https://github.com/xndrf/SF-DS118) и самого [проекта](https://github.com/xndrf/SF-DS118/blob/master/project_0/Readme.md);
 * Проверка кода на соответствие PEP8 проходила с использованием линтера [flake8](https://flake8.pycqa.org/en/latest/) в VScode.
 * Представлен файл [PY_8_Final_Task.py](/project_0/PY_8_Final_Task.py) - код функции;
 * Представлен файл [PY_JUPYTER.ipynb](/project_0/PY_8_JUPYTER.ipynb) - описание алгоритма и демонстрация результатов работы программы;
