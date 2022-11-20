@@ -6,4 +6,4 @@
 
 ## Мои Проекты
 
-### [1. Блок 1. Module: Python-8. Инстументы для Data Science](https://github.com/xndrf/SF-DS118/tree/master/project_0)
+### [1. Блок 1. Module: Python-8. Инстументы для Data Science](https://github.com/xndrf/SF-DS118/tree/main/project_0)
